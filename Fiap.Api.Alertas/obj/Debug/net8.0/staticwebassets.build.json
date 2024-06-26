@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cNR5lmD8dDr6M5be08i6Q5bpQE2DAfB5sQdzrNWbapk=",
+  "Source": "Fiap.Api.Alertas",
+  "BasePath": "_content/Fiap.Api.Alertas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

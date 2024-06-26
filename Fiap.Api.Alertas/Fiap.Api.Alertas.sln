@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.Api.Alertas", "Fiap.Api.Alertas.csproj", "{0397C244-EBB3-4896-9EC9-6F0EB1F82847}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0397C244-EBB3-4896-9EC9-6F0EB1F82847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0397C244-EBB3-4896-9EC9-6F0EB1F82847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0397C244-EBB3-4896-9EC9-6F0EB1F82847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0397C244-EBB3-4896-9EC9-6F0EB1F82847}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF7B9DCC-236A-493A-B32A-6C2793C8E479}
+	EndGlobalSection
+EndGlobal
